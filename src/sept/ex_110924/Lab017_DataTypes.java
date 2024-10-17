@@ -13,6 +13,7 @@ public class Lab017_DataTypes {
 
         char c3='\u1F6A'; // Unicode
         System.out.println(c3);
+
     }
 
 
